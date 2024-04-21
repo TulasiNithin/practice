@@ -1,0 +1,2 @@
+str='malayalam'
+for(i=)
